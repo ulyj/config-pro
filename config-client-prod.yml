@@ -1,0 +1,11 @@
+server:
+  port: 7779
+
+user:
+  name: zhangsan-prod
+
+spring:
+  application:
+    name: config-client # ”¶”√√˚≥∆
+
+name: config-client-prod

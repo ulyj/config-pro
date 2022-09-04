@@ -1,0 +1,11 @@
+server:
+  port: 7777
+
+user:
+  name: zhangsan-prod
+
+spring:
+  application:
+    name: config-client # Ó¦ÓÃÃû³Æ
+
+name: config-client-default
