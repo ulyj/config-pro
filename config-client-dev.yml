@@ -6,6 +6,6 @@ user:
 
 spring:
   application:
-    name: config-client # 应用名称
+    name: config-client
 
 name: config-client-dev
