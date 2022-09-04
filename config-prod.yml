@@ -6,9 +6,10 @@ user:
 
 spring:
   application:
-    name: config-server # 应用名称
+    name: config-server # 脫娄脫脙脙没鲁脝
   cloud:
     config:
       server:
         git:
           uri:
+name: config-prod-default
