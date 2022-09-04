@@ -1,0 +1,15 @@
+server:
+  port: 7777
+
+
+user:
+  name: zhangsan-dev
+
+spring:
+  application:
+    name: config-server # Ó¦ÓÃÃû³Æ
+  cloud:
+    config:
+      server:
+        git:
+          uri:
